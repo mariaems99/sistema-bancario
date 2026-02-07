@@ -1,11 +1,11 @@
-# 🏦 Sistema Bancário
+🏦 Projeto Sistema Bancário
 
-## 📌 Descrição
+📌 Descrição
 Este projeto simula operações bancárias básicas, permitindo criar contas, realizar depósitos, saques e transferências.  
 O objetivo é praticar conceitos de programação orientada a objetos e organização de código em Python.
 
 
-## 🚀 Como Executar
+🚀 Como Executar
 1. Abra o terminal na pasta do projeto.
 2. Execute o comando:
    ```bash
@@ -18,6 +18,7 @@ O objetivo é praticar conceitos de programação orientada a objetos e organiza
 - Realizar saques
 - Transferir valores entre contas
 - Consultar saldo
+
 
 📋 Requisitos
 - Python 3.x instalado
